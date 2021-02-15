@@ -2,14 +2,14 @@
 
 This project is the gentle introduction of Machine Predictive Maintenance Analysis using supervised machine learning method(XGBoost).
 
-**This series aims to:**
+## This series aims to:
 
 * Find key component to prevent breakdown before they occur
 * Estimate total cost that a machine will fail in the future
 * For long term target, we aim to estimate and decrease the breakdown cost by improvong this supervised fault classification
 
 
-**Data source:**
+## Data source: 
 
 In this project, I use time-stamped machine data for predictive maintenance problems, includes failure history, maintenance history, machine conditions and usage, machine features and operator features. I will use below data sources for predictive maintenance problems:
 
@@ -19,11 +19,11 @@ In this project, I use time-stamped machine data for predictive maintenance prob
 * failures data: Failure history, breakdown history of a machine or component within the machine.
 * machines data: Machine features, features of a machine, e.g. engine size, make and model, location.
 
-##Software Environment
+## Software Environment
 
-*scikit-learn
-*numpy
-*matplotlib
-*pandas
-*seaborn
-*datetime
+* scikit-learn
+* numpy
+* matplotlib
+* pandas
+* seaborn
+* datetime
