@@ -11,7 +11,7 @@ This project is the gentle introduction of Machine Failure Prediction Analysis u
 
 ## Data source: 
 
-In this project, I use time-stamped machine data for predictive maintenance problems, includes failure history, maintenance history, machine conditions and usage, machine features and operator features. I will use below data sources for predictive maintenance problems:
+In this project, I use time-stamped machine data for machine failure prediction and maintenance problems, includes failure history, maintenance history, machine conditions and usage, machine features and operator features. I will use below data sources for predictive maintenance problems:
 
 * telemetry data: Machine conditions and usage, operating conditions of a machine e.g. data collected from sensors.
 * errors data: Non-breaking errors history of a machine or component within the machine.
