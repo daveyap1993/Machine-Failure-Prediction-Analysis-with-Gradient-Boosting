@@ -1,6 +1,6 @@
-# Machine-Preditive-Maintenance-Analysis-with-Gradient-Boosting
+# Machine-failure-Maintenance-predictive-Analysis-with-Gradient-Boosting
 
-This project is the gentle introduction of Machine Predictive Maintenance Analysis using supervised machine learning method(XGBoost).
+This project is the gentle introduction of Machine failure Maintenance Predictive Analysis using supervised machine learning method(XGBoost).
 
 ## This series aims to:
 
